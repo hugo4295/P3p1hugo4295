@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P3p1hugo4295</string>
+    <string name="titulop1">Localizacion GPS</string>
+    <string name="latatitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="blocaliza">Obtener posicion</string>
+</resources>
